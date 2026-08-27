@@ -6,7 +6,7 @@ const memories = [
   {
     id: 1,
     type: 'video',
-    src: '/Scrapbookv1.mp4',
+    src: '/Annawww/WhatsApp Video 2026-08-27 at 11.53.40 PM.mp4.mp4',
     note: "Where it all started...",
     rotation: -5,
     align: 'left'
@@ -14,7 +14,7 @@ const memories = [
   {
     id: 2,
     type: 'image',
-    src: '/WhatsApp Image 2026-08-27 at 11.52.11 PM copy.jpeg',
+    src: '/Annawww/WhatsApp Image 2026-08-27 at 11.52.11 PM copy.jpeg',
     note: "OUR FIRST RAKHI ♡",
     rotation: 3,
     align: 'right'
@@ -22,7 +22,7 @@ const memories = [
   {
     id: 4,
     type: 'image',
-    src: 'WhatsApp Image 2026-08-27 at 11.51.28 PM.jpeg',
+    src: '/AnnawwwWhatsApp Image 2026-08-27 at 11.51.28 PM.jpeg',
     note: "And look at us now! annoying, but loving ...",
     rotation: 2,
     align: 'left'
@@ -30,7 +30,7 @@ const memories = [
   {
     id: 5,
     type: 'image',
-    src: 'WhatsApp Image 2026-08-27 at 11.52.12 PM.jpeg',
+    src: '/AnnawwwWhatsApp Image 2026-08-27 at 11.52.12 PM.jpeg',
     note: "˚ʚ♡ɞ˚",
     rotation: -2,
     align: 'right'
@@ -38,7 +38,7 @@ const memories = [
   {
     id: 6,
     type: 'image',
-    src: '/image copy.png',
+    src: '/Annawww/image copy.png',
     note: "Hoping to carry your blessings with me throughout my life",
     rotation: 4,
     align: 'left'
@@ -46,7 +46,7 @@ const memories = [
    {
     id: 3,
     type: 'image',
-    src: '/image copy 2.png',
+    src: '/Annawww/image copy 2.png',
     note: "MY FOREVER BODYGUARD",
     rotation: -4,
     align: 'center'
